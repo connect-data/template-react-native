@@ -5,7 +5,7 @@
 <p align="center">Template para construção do Front End do projeto 🎓</p>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/connect-data/template-react-native-10?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/connect-data/template-react-native?color=%2304D361">
 
   <a href="https://rocketseat.com.br">
     <img alt="Made by ConnectData" src="https://img.shields.io/badge/made%20by-ConnectData-%2304D361">
