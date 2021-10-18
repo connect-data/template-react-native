@@ -21,7 +21,6 @@ O projeto utiliza as seguintes tecnologias:
 - [TypeScript](https://www.typescriptlang.org/): é um superconjunto de JavaScript que adiciona tipagem e alguns outros recursos a linguagem;
 - [Expo](https://expo.io/): é uma ferramenta utilizada no desenvolvimento mobile com React Native que permite o fácil acesso às API nativas do dispositivo;
 - [React Native](https://reactnative.dev/): é uma biblioteca que permite o desenvolvimento de aplicações mobile usando JavaScript e React;
-- [React Navigation](https://reactnavigation.org/): é uma biblioteca que surgiu da necessidade da comunidade do React Native de uma navegação de forma fácil de se usar, e escrita toda em JavaScript;
 - [React Native Gesture Handler](https://kmagiera.github.io/react-native-gesture-handler/) - API declarativa que permite a manipulação de toques e gestos no React Native;
 - [Axios](https://github.com/axios/axios): é um cliente HTTP baseado em Promises para Browser e NodeJS;
 - [Babel](https://babeljs.io/): é um compilador JavaScript gratuito e de código aberto e transpiler configurável usado no desenvolvimento de aplicações JavaScript;
